@@ -5,7 +5,7 @@
   <img src="images/Logo_UOC.png" alt="" width="400"/>
 </p>
 
-Topic modelling of the National Energy and Climate Plans of the EU member states using Natural Language Processing
+<h1 align="center">Topic Modelling of the National Energy and Climate Plans of the EU Member States using Natural Language Processing</h1>
 
 <p align="center">
 <img src="images/bsc_logo.png" alt="" width="400"/>
